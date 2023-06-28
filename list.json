@@ -2,1200 +2,1210 @@
   {
     "country": "Afghanistan",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Afghanistan.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/af/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Afghanistan.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Afghanistan.png"
   },
   {
     "country": "Albania",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Albania.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/al/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Albania.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Albania.png"
   },
   {
     "country": "Algeria",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Algeria.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/dz/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Algeria.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Algeria.png"
   },
   {
     "country": "Andorra",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Andorra.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/ad/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Andorra.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Andorra.png"
   },
   {
     "country": "Angola",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Angola.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/ao/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Angola.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Angola.png"
   },
   {
     "country": "Antigua and Barbuda",
     "continent": "Americas",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Antigua and Barbuda.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/ag/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Antigua%20and%20Barbuda.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Antigua%20and%20Barbuda.png"
   },
   {
     "country": "Argentina",
     "continent": "Americas",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Argentina.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/ar/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Argentina.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Argentina.png"
   },
   {
     "country": "Armenia",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Armenia.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/am/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Armenia.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Armenia.png"
   },
   {
     "country": "Australia",
     "continent": "Oceania",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Australia.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/au/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Australia.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Australia.png"
   },
   {
     "country": "Austria",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Austria.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/at/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Austria.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Austria.png"
   },
   {
     "country": "Azerbaijan",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Azerbaijan.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/az/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Azerbaijan.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Azerbaijan.png"
   },
   {
     "country": "Bahamas",
     "continent": "Americas",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Bahamas.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/bs/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Bahamas.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Bahamas.png"
   },
   {
     "country": "Bahrain",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Bahrain.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/bh/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Bahrain.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Bahrain.png"
   },
   {
     "country": "Bangladesh",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Bangladesh.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/bd/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Bangladesh.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Bangladesh.png"
   },
   {
     "country": "Barbados",
     "continent": "Americas",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Barbados.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/bb/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Barbados.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Barbados.png"
   },
   {
     "country": "Belarus",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Belarus.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/by/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Belarus.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Belarus.png"
   },
   {
     "country": "Belgium",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Belgium.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/be/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Belgium.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Belgium.png"
   },
   {
     "country": "Belize",
     "continent": "Americas",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Belize.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/bz/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Belize.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Belize.png"
   },
   {
     "country": "Benin",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Benin.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/bj/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Benin.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Benin.png"
   },
   {
     "country": "Bhutan",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Bhutan.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/bt/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Bhutan.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Bhutan.png"
   },
   {
     "country": "Bolivia",
     "continent": "Americas",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Bolivia.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/bo/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Bolivia.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Bolivia.png"
   },
   {
     "country": "Bosnia and Herzegovina",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Bosnia and Herzegovina.png?raw=true",
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Bosnia%20and%20Herzegovina.png",
     "alias": "Bosnia",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/ba/256.png?raw=true"
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Bosnia%20and%20Herzegovina.png"
   },
   {
     "country": "Botswana",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Botswana.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/bw/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Botswana.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Botswana.png"
   },
   {
     "country": "Brazil",
     "continent": "Americas",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Brazil.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/br/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Brazil.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Brazil.png"
   },
   {
     "country": "Brunei",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Brunei.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/bn/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Brunei.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Brunei.png"
   },
   {
     "country": "Bulgaria",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Bulgaria.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/bg/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Bulgaria.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Bulgaria.png"
   },
   {
     "country": "Burkina Faso",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Burkina Faso.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/bf/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Burkina%20Faso.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Burkina%20Faso.png"
   },
   {
     "country": "Burundi",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Burundi.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/bi/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Burundi.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Burundi.png"
   },
   {
     "country": "Cambodia",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Cambodia.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/kh/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Cambodia.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Cambodia.png"
   },
   {
     "country": "Cameroon",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Cameroon.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/cm/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Cameroon.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Cameroon.png"
   },
   {
     "country": "Canada",
     "continent": "Americas",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Canada.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/ca/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Canada.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Canada.png"
   },
   {
     "country": "Cape Verde",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Cape Verde.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/cv/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Cape%20Verde.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Cape%20Verde.png"
   },
   {
     "country": "Central African Republic",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Central African Republic.png?raw=true",
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Central%20African%20Republic.png",
     "alias": "CAR",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/cf/256.png?raw=true"
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Central%20African%20Republic.png"
   },
   {
     "country": "Chad",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Chad.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/td/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Chad.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Chad.png"
   },
   {
     "country": "Chile",
     "continent": "Americas",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Chile.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/cl/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Chile.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Chile.png"
   },
   {
     "country": "China",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/China.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/cn/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/China.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/China.png"
   },
   {
     "country": "Colombia",
     "continent": "Americas",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Colombia.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/co/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Colombia.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Colombia.png"
   },
   {
     "country": "Comoros",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Comoros.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/km/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Comoros.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Comoros.png"
   },
   {
     "country": "Costa Rica",
     "continent": "Americas",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Costa%20Rica.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/cr/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Costa%20Rica.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Costa%20Rica.png"
   },
   {
     "country": "Croatia",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Croatia.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/hr/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Croatia.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Croatia.png"
   },
   {
     "country": "Cuba",
     "continent": "Americas",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Cuba.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/cu/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Cuba.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Cuba.png"
   },
   {
     "country": "Cyprus",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Cyprus.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/cy/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Cyprus.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Cyprus.png"
   },
   {
     "country": "Czechia",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Czechia.png?raw=true",
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Czechia.png",
     "alias": "Czech Republic",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/cz/256.png?raw=true"
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Czechia.png"
   },
   {
     "country": "Democratic Republic of the Congo",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Democratic Republic of the Congo.png?raw=true",
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Democratic%20Republic%20of%20the%20Congo.png",
     "alias": "DRC",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/cg/256.png?raw=true"
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Democratic%20Republic%20of%20the%20Congo.png"
   },
   {
     "country": "Denmark",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Denmark.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/dk/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Denmark.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Denmark.png"
   },
   {
     "country": "Djibouti",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Djibouti.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/dj/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Djibouti.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Djibouti.png"
   },
   {
     "country": "Dominica",
     "continent": "Americas",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Dominica.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/dm/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Dominica.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Dominica.png"
   },
   {
     "country": "Dominican Republic",
     "continent": "Americas",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Dominican Republic.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/do/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Dominican%20Republic.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Dominican%20Republic.png"
   },
   {
     "country": "Ecuador",
     "continent": "Americas",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Ecuador.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/ec/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Ecuador.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Ecuador.png"
   },
   {
     "country": "Egypt",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Egypt.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/eg/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Egypt.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Egypt.png"
   },
   {
     "country": "El Salvador",
     "continent": "Americas",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/El Salvador.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/sv/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/El%20Salvador.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/El%20Salvador.png"
   },
   {
     "country": "Equatorial Guinea",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Equatorial Guinea.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/gq/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Equatorial%20Guinea.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Equatorial%20Guinea.png"
   },
   {
     "country": "Eritrea",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Eritrea.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/er/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Eritrea.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Eritrea.png"
   },
   {
     "country": "Estonia",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Estonia.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/ee/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Estonia.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Estonia.png"
   },
   {
     "country": "Eswatini",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Eswatini.png?raw=true",
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Eswatini.png",
     "alias": "Swaziland",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/sz/256.png?raw=true"
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Eswatini.png"
   },
   {
     "country": "Ethiopia",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Ethiopia.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/et/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Ethiopia.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Ethiopia.png"
   },
   {
     "country": "Fiji",
     "continent": "Oceania",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Fiji.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/fj/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Fiji.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Fiji.png"
   },
   {
     "country": "Finland",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Finland.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/fi/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Finland.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Finland.png"
   },
   {
     "country": "France",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/France.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/fr/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/France.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/France.png"
   },
   {
     "country": "Gabon",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Gabon.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/ga/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Gabon.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Gabon.png"
   },
   {
     "country": "Gambia",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Gambia.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/gm/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Gambia.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Gambia.png"
   },
   {
     "country": "Georgia",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Georgia.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/ge/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Georgia.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Georgia.png"
   },
   {
     "country": "Germany",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Germany.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/de/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Germany.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Germany.png"
   },
   {
     "country": "Ghana",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Ghana.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/gh/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Ghana.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Ghana.png"
   },
   {
     "country": "Greece",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Greece.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/gr/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Greece.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Greece.png"
   },
   {
     "country": "Grenada",
     "continent": "Americas",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Grenada.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/gd/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Grenada.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Grenada.png"
   },
   {
     "country": "Guatemala",
     "continent": "Americas",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Guatemala.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/gt/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Guatemala.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Guatemala.png"
   },
   {
     "country": "Guinea-Bissau",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Guinea-Bissau.png?raw=true",
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Guinea-Bissau.png",
     "alias": "Guinea Bissau",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/gw/256.png?raw=true"
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Guinea-Bissau.png"
   },
   {
     "country": "Guinea",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Guinea.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/gn/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Guinea.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Guinea.png"
   },
-
   {
     "country": "Guyana",
     "continent": "Americas",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Guyana.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/gy/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Guyana.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Guyana.png"
   },
   {
     "country": "Haiti",
     "continent": "Americas",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Haiti.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/ht/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Haiti.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Haiti.png"
   },
   {
     "country": "Honduras",
     "continent": "Americas",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Honduras.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/hn/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Honduras.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Honduras.png"
   },
   {
     "country": "Hungary",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Hungary.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/hu/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Hungary.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Hungary.png"
   },
   {
     "country": "Iceland",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Iceland.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/is/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Iceland.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Iceland.png"
   },
   {
     "country": "India",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/India.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/in/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/India.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/India.png"
   },
   {
     "country": "Indonesia",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Indonesia.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/id/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Indonesia.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Indonesia.png"
   },
   {
     "country": "Iran",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Iran.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/ir/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Iran.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Iran.png"
   },
   {
     "country": "Iraq",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Iraq.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/iq/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Iraq.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Iraq.png"
   },
   {
     "country": "Ireland",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Ireland.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/ie/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Ireland.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Ireland.png"
   },
   {
     "country": "Israel",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Israel.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/il/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Israel.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Israel.png"
   },
   {
     "country": "Italy",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Italy.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/it/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Italy.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Italy.png"
   },
   {
     "country": "Ivory Coast",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Ivory Coast.png?raw=true",
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Ivory%20Coast.png",
     "alias": "cote d'ivoire",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/ci/256.png?raw=true"
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Ivory%20Coast.png"
   },
   {
     "country": "Jamaica",
     "continent": "Americas",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Jamaica.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/jm/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Jamaica.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Jamaica.png"
   },
   {
     "country": "Japan",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Japan.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/jp/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Japan.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Japan.png"
   },
   {
     "country": "Jordan",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Jordan.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/jo/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Jordan.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Jordan.png"
   },
   {
     "country": "Kazakhstan",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Kazakhstan.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/kz/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Kazakhstan.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Kazakhstan.png"
   },
   {
     "country": "Kenya",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Kenya.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/ke/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Kenya.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Kenya.png"
   },
   {
     "country": "Kiribati",
     "continent": "Oceania",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Kiribati.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/ki/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Kiribati.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Kiribati.png"
   },
   {
     "country": "Kosovo",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Kosovo.png?raw=true",
-    "map": "@TODO"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Kosovo.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Kosovo.png"
   },
   {
     "country": "Kuwait",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Kuwait.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/kw/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Kuwait.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Kuwait.png"
   },
   {
     "country": "Kyrgyzstan",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Kyrgyzstan.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/kg/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Kyrgyzstan.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Kyrgyzstan.png"
   },
   {
     "country": "Laos",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Laos.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/la/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Laos.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Laos.png"
   },
   {
     "country": "Latvia",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Latvia.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/lv/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Latvia.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Latvia.png"
   },
   {
     "country": "Lebanon",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Lebanon.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/lb/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Lebanon.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Lebanon.png"
   },
   {
     "country": "Lesotho",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Lesotho.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/ls/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Lesotho.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Lesotho.png"
   },
   {
     "country": "Liberia",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Liberia.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/lr/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Liberia.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Liberia.png"
   },
   {
     "country": "Libya",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Libya.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/ly/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Libya.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Libya.png"
   },
   {
     "country": "Liechtenstein",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Liechtenstein.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/li/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Liechtenstein.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Liechtenstein.png"
   },
   {
     "country": "Lithuania",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Lithuania.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/lt/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Lithuania.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Lithuania.png"
   },
   {
     "country": "Luxembourg",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Luxembourg.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/lu/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Luxembourg.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Luxembourg.png"
   },
   {
     "country": "Madagascar",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Madagascar.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/mg/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Madagascar.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Madagascar.png"
   },
   {
     "country": "Malawi",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Malawi.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/mw/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Malawi.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Malawi.png"
   },
   {
     "country": "Malaysia",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Malaysia.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/my/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Malaysia.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Malaysia.png"
   },
   {
     "country": "Maldives",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Maldives.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/mv/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Maldives.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Maldives.png"
   },
   {
     "country": "Mali",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Mali.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/ml/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Mali.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Mali.png"
   },
   {
     "country": "Malta",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Malta.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/mt/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Malta.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Malta.png"
   },
   {
     "country": "Marshall Islands",
     "continent": "Oceania",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Marshall Islands.png?raw=true",
-    "map": "https://media.discordapp.net/attachments/654748925672161300/1078030062785417306/vector-map-marshall-islands-isolated-vector-illustration-black-on-white-background-eps-10-illustration-2BW5JX0.jpg-removebg-preview.png?width=463&height=496"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Marshall%20Islands.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Marshall%20Islands.png"
   },
   {
     "country": "Mauritania",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Mauritania.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/mr/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Mauritania.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Mauritania.png"
   },
   {
     "country": "Mauritius",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Mauritius.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/mu/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Mauritius.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Mauritius.png"
   },
   {
     "country": "Mexico",
     "continent": "Americas",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Mexico.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/mx/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Mexico.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Mexico.png"
   },
   {
     "country": "Micronesia",
     "continent": "Oceania",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Micronesia.png?raw=true",
-    "map": "https://media.discordapp.net/attachments/654748925672161300/1078030533742841907/image-removebg-preview.png"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Micronesia.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Micronesia.png"
   },
   {
     "country": "Moldova",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Moldova.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/md/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Moldova.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Moldova.png"
   },
   {
     "country": "Monaco",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Monaco.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/mc/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Monaco.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Monaco.png"
   },
   {
     "country": "Mongolia",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Mongolia.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/mn/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Mongolia.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Mongolia.png"
   },
   {
     "country": "Montenegro",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Montenegro.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/me/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Montenegro.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Montenegro.png"
   },
   {
     "country": "Morocco",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Morocco.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/ma/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Morocco.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Morocco.png"
   },
   {
     "country": "Mozambique",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Mozambique.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/mz/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Mozambique.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Mozambique.png"
   },
   {
     "country": "Myanmar",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Myanmar.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/mm/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Myanmar.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Myanmar.png"
   },
   {
     "country": "Namibia",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Namibia.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/na/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Namibia.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Namibia.png"
   },
   {
     "country": "Nauru",
     "continent": "Oceania",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Nauru.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/nr/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Nauru.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Nauru.png"
   },
   {
     "country": "Nepal",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Nepal.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/np/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Nepal.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Nepal.png"
   },
   {
     "country": "Netherlands",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Netherlands.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/nl/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Netherlands.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Netherlands.png"
   },
   {
     "country": "New Zealand",
     "continent": "Oceania",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/New Zealand.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/nz/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/New%20Zealand.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/New%20Zealand.png"
   },
   {
     "country": "Nicaragua",
     "continent": "Americas",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Nicaragua.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/ni/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Nicaragua.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Nicaragua.png"
   },
   {
     "country": "Niger",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Niger.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/ne/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Niger.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Niger.png"
   },
   {
     "country": "Nigeria",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Nigeria.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/ng/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Nigeria.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Nigeria.png"
   },
   {
     "country": "North Korea",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/North Korea.png?raw=true",
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/North%20Korea.png",
     "alias": "DRPK",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/kp/256.png?raw=true"
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/North%20Korea.png"
   },
   {
     "country": "North Macedonia",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/North Macedonia.png?raw=true",
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/North%20Macedonia.png",
     "alias": "Macedonia",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/mk/256.png?raw=true"
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/North%20Macedonia.png"
   },
   {
     "country": "Norway",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Norway.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/no/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Norway.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Norway.png"
   },
   {
     "country": "Oman",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Oman.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/om/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Oman.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Oman.png"
   },
   {
     "country": "Pakistan",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Pakistan.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/pk/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Pakistan.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Pakistan.png"
   },
   {
     "country": "Palau",
     "continent": "Oceania",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Palau.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/pw/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Palau.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Palau.png"
   },
   {
     "country": "Palestine",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Palestine.png?raw=true",
-    "map": "@TODO"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Palestine.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Palestine.png"
   },
   {
     "country": "Panama",
     "continent": "Americas",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Panama.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/pa/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Panama.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Panama.png"
   },
   {
     "country": "Papua New Guinea",
     "continent": "Oceania",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Papua New Guinea.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/pg/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Papua%20New%20Guinea.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Papua%20New%20Guinea.png"
   },
   {
     "country": "Paraguay",
     "continent": "Americas",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Paraguay.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/py/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Paraguay.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Paraguay.png"
   },
   {
     "country": "Peru",
     "continent": "Americas",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Peru.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/pe/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Peru.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Peru.png"
   },
   {
     "country": "Philippines",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Philippines.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/ph/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Philippines.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Philippines.png"
   },
   {
     "country": "Poland",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Poland.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/pl/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Poland.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Poland.png"
   },
   {
     "country": "Portugal",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Portugal.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/pt/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Portugal.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Portugal.png"
   },
   {
     "country": "Qatar",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Qatar.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/qa/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Qatar.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Qatar.png"
   },
   {
     "country": "Republic of the Congo",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Congo.png?raw=true",
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Republic%20of%20the%20Congo.png",
     "alias": "Congo",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/cg/256.png?raw=true"
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Republic%20of%20the%20Congo.png"
   },
   {
     "country": "Romania",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Romania.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/ro/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Romania.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Romania.png"
   },
   {
     "country": "Russia",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Russia.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/ru/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Russia.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Russia.png"
   },
   {
     "country": "Rwanda",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Rwanda.png?raw=true",
-    "map": "https://github.com/Naviamold1/mapsicon/blob/master/all/rw/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Rwanda.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Rwanda.png"
   },
   {
     "country": "Saint Kitts and Nevis",
     "continent": "Americas",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Saint Kitts and Nevis.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/kn/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Saint%20Kitts%20and%20Nevis.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Saint%20Kitts%20and%20Nevis.png"
   },
   {
     "country": "Saint Lucia",
     "continent": "Americas",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Saint Lucia.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/lc/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Saint%20Lucia.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Saint%20Lucia.png"
   },
   {
     "country": "Saint Vincent and the Grenadines",
     "continent": "Americas",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Saint Vincent and the Grenadines.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/vc/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Saint%20Vincent%20and%20the%20Grenadines.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Saint%20Vincent%20and%20the%20Grenadines.png"
   },
   {
     "country": "Samoa",
     "continent": "Oceania",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Samoa.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/ws/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Samoa.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Samoa.png"
   },
   {
     "country": "San Marino",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/San Marino.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/sm/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/San%20Marino.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/San%20Marino.png"
   },
   {
     "country": "Sao Tome and Principe",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Sao Tome and Principe.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/st/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Sao%20Tome%20and%20Principe.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Sao%20Tome%20and%20Principe.png"
   },
   {
     "country": "Saudi Arabia",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Saudi Arabia.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/sa/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Saudi%20Arabia.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Saudi%20Arabia.png"
   },
   {
     "country": "Senegal",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Senegal.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/sn/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Senegal.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Senegal.png"
   },
   {
     "country": "Serbia",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Serbia.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/rs/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Serbia.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Serbia.png"
   },
   {
     "country": "Seychelles",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Seychelles.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/sc/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Seychelles.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Seychelles.png"
   },
   {
     "country": "Sierra Leone",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Sierra Leone.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/sl/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Sierra%20Leone.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Sierra%20Leone.png"
   },
   {
     "country": "Singapore",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Singapore.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/sg/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Singapore.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Singapore.png"
   },
   {
     "country": "Slovakia",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Slovakia.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/sk/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Slovakia.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Slovakia.png"
   },
   {
     "country": "Slovenia",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Slovenia.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/si/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Slovenia.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Slovenia.png"
   },
   {
     "country": "Solomon Islands",
     "continent": "Oceania",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Solomon Islands.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/sb/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Solomon%20Islands.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Solomon%20Islands.png"
   },
   {
     "country": "Somalia",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Somalia.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/so/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Somalia.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Somalia.png"
   },
   {
     "country": "South Africa",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/South Africa.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/za/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/South%20Africa.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/South%20Africa.png"
   },
   {
     "country": "South Korea",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/South Korea.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/kr/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/South%20Korea.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/South%20Korea.png"
   },
   {
     "country": "South Sudan",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/South Sudan.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/ss/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/South%20Sudan.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/South%20Sudan.png"
   },
   {
     "country": "Spain",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Spain.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/es/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Spain.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Spain.png"
   },
   {
     "country": "Sri Lanka",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Sri Lanka.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/lk/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Sri%20Lanka.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Sri%20Lanka.png"
   },
   {
     "country": "Sudan",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Sudan.png?raw=true",
-    "map": "https://github.com/Naviamold1/mapsicon/blob/master/all/sd/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Sudan.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Sudan.png"
   },
   {
     "country": "Suriname",
     "continent": "Americas",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Suriname.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/sr/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Suriname.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Suriname.png"
   },
   {
     "country": "Sweden",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Sweden.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/se/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Sweden.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Sweden.png"
   },
   {
     "country": "Switzerland",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Switzerland.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/ch/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Switzerland.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Switzerland.png"
   },
   {
     "country": "Syria",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Syria.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/sy/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Syria.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Syria.png"
   },
   {
     "country": "Taiwan",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Taiwan.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/tw/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Taiwan.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Taiwan.png"
   },
   {
     "country": "Tajikistan",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Tajikistan.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/tj/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Tajikistan.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Tajikistan.png"
   },
   {
     "country": "Tanzania",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Tanzania.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/tz/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Tanzania.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Tanzania.png"
   },
   {
     "country": "Thailand",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Thailand.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/th/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Thailand.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Thailand.png"
   },
   {
     "country": "Timor-Leste",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Timor-Leste.png?raw=true",
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Timor-Leste.png",
     "alias": "East-Timor",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/tl/256.png?raw=true"
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Timor-Leste.png"
   },
   {
     "country": "Togo",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Togo.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/tg/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Togo.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Togo.png"
   },
   {
     "country": "Tonga",
     "continent": "Oceania",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Tonga.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/to/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Tonga.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Tonga.png"
   },
   {
     "country": "Trinidad and Tobago",
     "continent": "Americas",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Trinidad and Tobago.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/tt/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Trinidad%20and%20Tobago.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Trinidad%20and%20Tobago.png"
   },
   {
     "country": "Tunisia",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Tunisia.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/tn/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Tunisia.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Tunisia.png"
   },
   {
     "country": "Turkey",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Turkey.png?raw=true",
-    "alias": ["Turkiye", "TÃ¼rkiye"],
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/tr/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Turkey.png",
+    "alias": [
+      "Turkiye",
+      "T\u00c3\u0192\u00c2\u00bcrkiye"
+    ],
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Turkey.png"
   },
   {
     "country": "Turkmenistan",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Turkmenistan.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/tm/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Turkmenistan.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Turkmenistan.png"
   },
   {
     "country": "Tuvalu",
     "continent": "Oceania",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Tuvalu.png?raw=true",
-    "map": "https://media.discordapp.net/attachments/654748925672161300/1078029542406492170/removal.ai_tmp-63f667305e9ba.png?width=496&height=496"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Tuvalu.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Tuvalu.png"
   },
   {
     "country": "Uganda",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Uganda.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/ug/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Uganda.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Uganda.png"
   },
   {
     "country": "Ukraine",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Ukraine.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/ua/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Ukraine.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Ukraine.png"
   },
   {
     "country": "United Arab Emirates",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/United Arab Emirates.png?raw=true",
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/United%20Arab%20Emirates.png",
     "alias": "UAE",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/ae/256.png?raw=true"
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/United%20Arab%20Emirates.png"
   },
   {
     "country": "United Kingdom",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/United Kingdom.png?raw=true",
-    "alias": ["UK", "Britain", "Great Britain"],
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/gb/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/United%20Kingdom.png",
+    "alias": [
+      "UK",
+      "Britain",
+      "Great Britain"
+    ],
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/United%20Kingdom.png"
   },
   {
     "country": "United States",
     "continent": "Americas",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/United States.png?raw=true",
-    "alias": ["US", "USA", "United States of America"],
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/us/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/United%20States.png",
+    "alias": [
+      "US",
+      "USA",
+      "United States of America"
+    ],
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/United%20States.png"
   },
   {
     "country": "Uruguay",
     "continent": "Americas",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Uruguay.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/uy/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Uruguay.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Uruguay.png"
   },
   {
     "country": "Uzbekistan",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Uzbekistan.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/uz/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Uzbekistan.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Uzbekistan.png"
   },
   {
     "country": "Vanuatu",
     "continent": "Oceania",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Vanuatu.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/vu/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Vanuatu.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Vanuatu.png"
   },
   {
     "country": "Vatican City",
     "continent": "Europe",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Vatican City.png?raw=true",
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Vatican%20City.png",
     "alias": "Vatican",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/va/256.png?raw=true"
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Vatican%20City.png"
   },
   {
     "country": "Venezuela",
     "continent": "Americas",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Venezuela.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/ve/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Venezuela.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Venezuela.png"
   },
   {
     "country": "Vietnam",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Vietnam.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/vn/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Vietnam.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Vietnam.png"
   },
   {
     "country": "Yemen",
     "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Yemen.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/ye/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Yemen.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Yemen.png"
   },
   {
     "country": "Zambia",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Zambia.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/zm/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Zambia.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Zambia.png"
   },
   {
     "country": "Zimbabwe",
     "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Zimbabwe.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/zw/256.png?raw=true"
+    "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Zimbabwe.png",
+    "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Zimbabwe.png"
   }
 ]
