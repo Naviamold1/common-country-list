@@ -13,9 +13,20 @@
 
 ## Install
 
+- Download the [list.json](https://raw.githubusercontent.com/Naviamold1/common-country-list/main/list.json) (recommended)
+
+- Download the [list.csv](https://raw.githubusercontent.com/Naviamold1/common-country-list/main/list.csv)
+
+- Clone the full project:
+
 ```sh
 git clone https://github.com/Naviamold1/common-country-list.git
 ```
+
+### Q: On what principle are countries listed here / Why is X country listed / not listed?
+
+A: I listed common / well-known countries (aka UN + Taiwan + Kosovo + Palestine).
+That doesn't mean though that I support / endorse these countries.
 
 ## Author
 
