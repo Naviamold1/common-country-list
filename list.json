@@ -230,23 +230,9 @@
     "map": "https://github.com/djaiss/mapsicon/blob/master/all/km/256.png?raw=true"
   },
   {
-    "country": "Congo",
-    "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Congo.png?raw=true",
-    "alias": "Republic of Congo",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/cg/256.png?raw=true"
-  },
-  {
-    "country": "Democratic Republic of the Congo",
-    "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Democratic Republic of the Congo.png?raw=true",
-    "alias": "DRC",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/cg/256.png?raw=true"
-  },
-  {
     "country": "Costa Rica",
     "continent": "Americas",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Costa Rica.png?raw=true",
+    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Costa%20Rica.png?raw=true",
     "map": "https://github.com/djaiss/mapsicon/blob/master/all/cr/256.png?raw=true"
   },
   {
@@ -273,6 +259,13 @@
     "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Czechia.png?raw=true",
     "alias": "Czech Republic",
     "map": "https://github.com/djaiss/mapsicon/blob/master/all/cz/256.png?raw=true"
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "continent": "Africa",
+    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Democratic Republic of the Congo.png?raw=true",
+    "alias": "DRC",
+    "map": "https://github.com/djaiss/mapsicon/blob/master/all/cg/256.png?raw=true"
   },
   {
     "country": "Denmark",
@@ -414,18 +407,19 @@
     "map": "https://github.com/djaiss/mapsicon/blob/master/all/gt/256.png?raw=true"
   },
   {
-    "country": "Guinea",
-    "continent": "Africa",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Guinea.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/gn/256.png?raw=true"
-  },
-  {
     "country": "Guinea-Bissau",
     "continent": "Africa",
     "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Guinea-Bissau.png?raw=true",
     "alias": "Guinea Bissau",
     "map": "https://github.com/djaiss/mapsicon/blob/master/all/gw/256.png?raw=true"
   },
+  {
+    "country": "Guinea",
+    "continent": "Africa",
+    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Guinea.png?raw=true",
+    "map": "https://github.com/djaiss/mapsicon/blob/master/all/gn/256.png?raw=true"
+  },
+
   {
     "country": "Guyana",
     "continent": "Americas",
@@ -540,6 +534,12 @@
     "continent": "Oceania",
     "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Kiribati.png?raw=true",
     "map": "https://github.com/djaiss/mapsicon/blob/master/all/ki/256.png?raw=true"
+  },
+  {
+    "country": "Kosovo",
+    "continent": "Europe",
+    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Kosovo.png?raw=true",
+    "map": "@TODO"
   },
   {
     "country": "Kuwait",
@@ -802,6 +802,12 @@
     "map": "https://github.com/djaiss/mapsicon/blob/master/all/pw/256.png?raw=true"
   },
   {
+    "country": "Palestine",
+    "continent": "Asia",
+    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Palestine.png?raw=true",
+    "map": "@TODO"
+  },
+  {
     "country": "Panama",
     "continent": "Americas",
     "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Panama.png?raw=true",
@@ -848,6 +854,13 @@
     "continent": "Asia",
     "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Qatar.png?raw=true",
     "map": "https://github.com/djaiss/mapsicon/blob/master/all/qa/256.png?raw=true"
+  },
+  {
+    "country": "Republic of the Congo",
+    "continent": "Africa",
+    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Congo.png?raw=true",
+    "alias": "Congo",
+    "map": "https://github.com/djaiss/mapsicon/blob/master/all/cg/256.png?raw=true"
   },
   {
     "country": "Romania",
@@ -1024,16 +1037,16 @@
     "map": "https://github.com/djaiss/mapsicon/blob/master/all/sy/256.png?raw=true"
   },
   {
-    "country": "Tajikistan",
-    "continent": "Asia",
-    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Tajikistan.png?raw=true",
-    "map": "https://github.com/djaiss/mapsicon/blob/master/all/tj/256.png?raw=true"
-  },
-  {
     "country": "Taiwan",
     "continent": "Asia",
     "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Taiwan.png?raw=true",
     "map": "https://github.com/djaiss/mapsicon/blob/master/all/tw/256.png?raw=true"
+  },
+  {
+    "country": "Tajikistan",
+    "continent": "Asia",
+    "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Tajikistan.png?raw=true",
+    "map": "https://github.com/djaiss/mapsicon/blob/master/all/tj/256.png?raw=true"
   },
   {
     "country": "Tanzania",
@@ -1082,10 +1095,7 @@
     "country": "Turkey",
     "continent": "Asia",
     "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/Turkey.png?raw=true",
-    "alias": [
-      "Turkiye",
-      "T\u00c3\u00bcrkiye"
-    ],
+    "alias": ["Turkiye", "TÃ¼rkiye"],
     "map": "https://github.com/djaiss/mapsicon/blob/master/all/tr/256.png?raw=true"
   },
   {
@@ -1123,22 +1133,14 @@
     "country": "United Kingdom",
     "continent": "Europe",
     "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/United Kingdom.png?raw=true",
-    "alias": [
-      "UK",
-      "Britain",
-      "Great Britain"
-    ],
+    "alias": ["UK", "Britain", "Great Britain"],
     "map": "https://github.com/djaiss/mapsicon/blob/master/all/gb/256.png?raw=true"
   },
   {
     "country": "United States",
     "continent": "Americas",
     "flag": "https://github.com/Naviamold1/Multi-Functional-Bot/blob/main/assets/flags/United States.png?raw=true",
-    "alias": [
-      "US",
-      "USA",
-      "United States of America"
-    ],
+    "alias": ["US", "USA", "United States of America"],
     "map": "https://github.com/djaiss/mapsicon/blob/master/all/us/256.png?raw=true"
   },
   {
