@@ -14,7 +14,8 @@
       },
       "continent": {
         "description": "The continent where the country is located",
-        "type": "string"
+        "type": "string",
+        "enum": ["Europe", "Asia", "Americas", "Oceania", "Africa"]
       },
       "flag": {
         "description": "The flag of the country",
