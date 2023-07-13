@@ -1094,10 +1094,7 @@
     "country": "Turkey",
     "continent": "Asia",
     "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/Turkey.png",
-    "alias": [
-      "Turkiye",
-      "T\u00c3\u0192\u00c2\u00bcrkiye"
-    ],
+    "alias": ["Turkiye", "Türkiye"],
     "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/Turkey.png"
   },
   {
@@ -1135,22 +1132,14 @@
     "country": "United Kingdom",
     "continent": "Europe",
     "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/United%20Kingdom.png",
-    "alias": [
-      "UK",
-      "Britain",
-      "Great Britain"
-    ],
+    "alias": ["UK", "Britain", "Great Britain"],
     "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/United%20Kingdom.png"
   },
   {
     "country": "United States",
     "continent": "Americas",
     "flag": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/flags/United%20States.png",
-    "alias": [
-      "US",
-      "USA",
-      "United States of America"
-    ],
+    "alias": ["US", "USA", "United States of America"],
     "map": "https://raw.githubusercontent.com/Naviamold1/common-country-list/main/maps/United%20States.png"
   },
   {

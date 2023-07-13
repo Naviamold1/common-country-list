@@ -1,0 +1,11 @@
+{
+  "cSpell.words": ["d'ivoire", "DRPK", "Turkiye", "Türkiye"],
+  "json.schemas": [
+    {
+      "fileMatch": [
+        "list.json"
+      ],
+      "url": "./list.schema.json"
+    }
+  ]
+}

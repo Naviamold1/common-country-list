@@ -1,0 +1,37 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "$id": "https://example.com/product.schema.json",
+  "title": "Country",
+  "description": "List of common countries",
+  "type": "array",
+  "uniqueItems": true,
+  "items": {
+    "type": "object",
+    "properties": {
+      "country": {
+        "description": "The name of the country",
+        "type": "string"
+      },
+      "continent": {
+        "description": "The continent where the country is located",
+        "type": "string"
+      },
+      "flag": {
+        "description": "The flag of the country",
+        "type": "string",
+        "format": "uri"
+      },
+      "map": {
+        "description": "the map of the country",
+        "type": "string",
+        "format": "uri"
+      },
+      "alias": {
+        "description": "Other names of the country",
+        "type": ["string", "array"],
+        "uniqueItems": true
+      }
+    },
+    "required": ["country", "continent", "flag", "map"]
+  }
+}
